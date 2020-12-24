@@ -11,7 +11,7 @@ Users write love notes for some recipient. Everytime the recipient executes a co
 
 If the bot runs out of unread notes, it will recycle past notes until a new note is written.
 
-### Usage
+#### Usage
 
 The following commands are to be typed in any channel that the JennyBot can access.
 
